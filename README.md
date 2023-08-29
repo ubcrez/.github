@@ -1,1 +1,1 @@
-# .github
+Simplifying finding on-campus housing.
